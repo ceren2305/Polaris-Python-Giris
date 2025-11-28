@@ -1,0 +1,6 @@
+a = int(input("What is a? "))
+b = int(input("What is b? "))
+print(f"{a + b:,}")
+print(f"{a - b:,}")
+print(f"{a * b:,}")
+print(f"{a / b:,}")
